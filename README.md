@@ -1,8 +1,8 @@
 # Power BI & MI Portfolio
 
-This repository contains selected Power BI and reporting projects
-focused on management information, performance tracking, and
-decision support.
+This repository showcases selected Power BI and management information
+projects focused on performance reporting, KPI tracking, and
+decision-ready insight for stakeholders.
 
 ## Tools
 - Power BI
